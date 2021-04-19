@@ -4,7 +4,7 @@ var movingSprite;
 var music;
 
 function preload(){
-music=loadSound("music.mp3");
+music=loadSound("music.mp3")
 }
 
 function setup(){
@@ -29,8 +29,15 @@ function setup(){
     fixSprite3.shapeColor="blue";
 
     fixSprite4=createSprite(700,580,180,30);
-    fixSprite4.shapeColor="yellow";
+    fixSprite4.shapeColor="yellow"
 
+    
+    
+    
+    
+    
+    
+    
     
 
 }
